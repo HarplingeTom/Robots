@@ -1,7 +1,7 @@
 {
   "main.css": "/robots/static/css/main.80b271ee.chunk.css",
-  "main.js": "/robots/static/js/main.61d8cc74.chunk.js",
-  "main.js.map": "/robots/static/js/main.61d8cc74.chunk.js.map",
+  "main.js": "/robots/static/js/main.e801e49a.chunk.js",
+  "main.js.map": "/robots/static/js/main.e801e49a.chunk.js.map",
   "static/css/1.c19b5e0f.chunk.css": "/robots/static/css/1.c19b5e0f.chunk.css",
   "static/js/1.fb76a3c5.chunk.js": "/robots/static/js/1.fb76a3c5.chunk.js",
   "static/js/1.fb76a3c5.chunk.js.map": "/robots/static/js/1.fb76a3c5.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/media/App.css": "/robots/static/media/SEGA.12a3db8b.woff",
   "static/css/main.80b271ee.chunk.css.map": "/robots/static/css/main.80b271ee.chunk.css.map",
   "index.html": "/robots/index.html",
-  "precache-manifest.57e0f155445e33066f75dbe4283cb5cc.js": "/robots/precache-manifest.57e0f155445e33066f75dbe4283cb5cc.js",
+  "precache-manifest.72e1850f1ed56e0e2e6accb6924a65c6.js": "/robots/precache-manifest.72e1850f1ed56e0e2e6accb6924a65c6.js",
   "service-worker.js": "/robots/service-worker.js"
 }
