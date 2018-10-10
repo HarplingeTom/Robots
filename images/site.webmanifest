@@ -1,12 +1,7 @@
 {
-    "name": "Robots!!!",
-    "short_name": "robots",
+    "name": "",
+    "short_name": "",
     "icons": [
-        {
-            "src": "favicon.ico",
-            "sizes": "64x64 32x32 24x24 16 16",
-            "type": "image/x-icon"
-        },
         {
             "src": "/android-chrome-192x192.png",
             "sizes": "192x192",
