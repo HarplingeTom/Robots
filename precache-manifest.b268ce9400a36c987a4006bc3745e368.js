@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/robots/static/js/runtime~main.49d69044.js"
   },
   {
-    "revision": "96d2ff8e4943f5fdd768",
-    "url": "/robots/static/js/main.96d2ff8e.chunk.js"
+    "revision": "95c6a6fbcfcab0edb29b",
+    "url": "/robots/static/js/main.95c6a6fb.chunk.js"
   },
   {
     "revision": "fb76a3c572d6824fe357",
     "url": "/robots/static/js/1.fb76a3c5.chunk.js"
   },
   {
-    "revision": "96d2ff8e4943f5fdd768",
+    "revision": "95c6a6fbcfcab0edb29b",
     "url": "/robots/static/css/main.80b271ee.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/robots/static/css/1.c19b5e0f.chunk.css"
   },
   {
-    "revision": "2865dec929142f118e59a32903b8bc9d",
+    "revision": "0cc14e6be01cfecf186a8c9ba524d010",
     "url": "/robots/index.html"
   }
 ];
